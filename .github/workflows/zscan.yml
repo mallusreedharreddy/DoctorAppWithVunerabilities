@@ -46,7 +46,7 @@ jobs:
       timeout-minutes: 60
       with:
         # REPLACE: Zimperium Client Environment Name
-        client_env: InSecurity
+        client_env: zc202
         # REPLACE: Zimperium Client ID
         client_id: M4QvipxNT3qx2szQ_tbvIQ
         # REPLACE: Zimperium Client Secret
